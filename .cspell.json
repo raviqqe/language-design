@@ -1,3 +1,21 @@
 {
-  "words": ["expresso", "intercal", "koka", "libhandler", "mlsub", "subtyping"]
+  "words": [
+    "cranelift",
+    "deno",
+    "emscripten",
+    "expresso",
+    "intercal",
+    "koka",
+    "libhandler",
+    "mimalloc",
+    "mlsub",
+    "perceus",
+    "reactiveness",
+    "stateful",
+    "subtyping",
+    "tagless",
+    "wasi",
+    "wasm",
+    "wasmtime"
+  ]
 }
