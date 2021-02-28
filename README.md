@@ -1,6 +1,6 @@
 # Language design
 
-Language design resources grouped into topics.
+Language design resources grouped into topics
 
 ## Programming languages
 
