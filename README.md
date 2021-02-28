@@ -1,4 +1,6 @@
-# References
+# Language design
+
+Language design resources grouped into topics.
 
 ## Programming languages
 
@@ -18,6 +20,7 @@
 - [Koka](https://github.com/koka-lang/koka)
 - [Lean 4](https://github.com/leanprover/lean4)
 - [Lobster](https://github.com/aardappel/lobster)
+- [Swift](https://swift.org/)
 
 ## Language design
 
