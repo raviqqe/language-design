@@ -21,6 +21,7 @@ Language design resources grouped into topics
 - [Lean 4](https://github.com/leanprover/lean4)
 - [Lobster](https://github.com/aardappel/lobster)
 - [Swift](https://swift.org/)
+- [Scala](https://www.scala-lang.org/)
 
 ## Language design
 
@@ -62,6 +63,7 @@ Language design resources grouped into topics
   - [c-rrb](https://github.com/hypirion/c-rrb)
   - [The blog post](https://hypirion.com/musings/thesis)
 - [Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections](https://michael.steindorfer.name/publications/oopsla15.pdf)
+- [LazyList | Scala](https://www.scala-lang.org/api/current/scala/collection/immutable/LazyList.html)
 
 ## Coroutines
 
