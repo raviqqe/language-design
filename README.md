@@ -57,6 +57,10 @@ Language design resources grouped into topics
 ## Data structures
 
 - [RRB-Trees: Efficient Immutable Vectors](https://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
+  - [elm-array](https://github.com/exists-forall/elm-array)
+- [Improving RRB-Tree Performance through Transience](https://hypirion.com/thesis.pdf)
+  - [c-rrb](https://github.com/hypirion/c-rrb)
+  - [The blog post](https://hypirion.com/musings/thesis)
 - [Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections](https://michael.steindorfer.name/publications/oopsla15.pdf)
 
 ## Coroutines
