@@ -22,6 +22,7 @@ Language design resources grouped into topics
 - [Lobster](https://github.com/aardappel/lobster)
 - [Swift](https://swift.org/)
 - [Scala](https://www.scala-lang.org/)
+- [Effekt](https://effekt-lang.org/)
 
 ## Language design
 
