@@ -8,6 +8,7 @@ Language design resources grouped into topics
 - [Go](https://github.com/golang/go)
   - The package namespace system like Go works only with object-oriented programming as classes create sub-namespaces.
   - [Channels - A Tour of Go](https://tour.golang.org/concurrency/2)
+  - [DQNEO/babygo](https://github.com/DQNEO/babygo)
 - [Gluon](https://github.com/gluon-lang/gluon)
 - [Expresso](https://github.com/willtim/Expresso)
 - [IntercalScript](https://github.com/Storyyeller/IntercalScript)
