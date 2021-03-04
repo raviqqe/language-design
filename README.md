@@ -92,7 +92,7 @@ Language design resources grouped into topics
 
 ## Parallel computation
 
-- [José Valim - Keynote: Announcing Broadway - ElixirConf EU 2019](https://www.youtube.com/watch?v=IzFmNQGzApQ)
+- [Keynote: Announcing Broadway - ElixirConf EU 2019](https://www.youtube.com/watch?v=IzFmNQGzApQ)
   - Basic back pressure can be implemented as queue limits.
   - [dashbitco/broadway](https://github.com/dashbitco/broadway)
   - [Akka Stream](https://doc.akka.io/docs/akka/current/stream/index.html)
