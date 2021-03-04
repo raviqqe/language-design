@@ -93,5 +93,5 @@ Language design resources grouped into topics
 ## Parallel computation
 
 - [José Valim - Keynote: Announcing Broadway - ElixirConf EU 2019](https://www.youtube.com/watch?v=IzFmNQGzApQ)
-  - Back pressure can be implemented as queue limits.
+  - Basic back pressure can be implemented as queue limits.
   - [dashbitco/broadway](https://github.com/dashbitco/broadway)
