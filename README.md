@@ -24,6 +24,7 @@ Language design resources grouped into topics
 - [Swift](https://swift.org/)
 - [Scala](https://www.scala-lang.org/)
 - [Effekt](https://effekt-lang.org/)
+- [Elixir](https://elixir-lang.org/)
 
 ## Language design
 
@@ -34,7 +35,7 @@ Language design resources grouped into topics
 
 - [Lecture slides of recursive types at Cornell University](https://www.cs.cornell.edu/courses/cs4110/2012fa/lectures/lecture27.pdf)
 - [Algebraic subtyping](https://www.cs.tufts.edu/~nr/cs257/archive/stephen-dolan/thesis.pdf)
-  - [Polymorphism, Subtyping, and Type Inference in MLsub](http://stedolan.net/research/mlsub.pdf)
+  - [Polymorphism, Subtyping, and Type Inference in MLsub](https://www.repository.cam.ac.uk/handle/1810/261583)
 - [Practical type inference for arbitrary-rank types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
 
 ## Effect system
@@ -88,3 +89,10 @@ Language design resources grouped into topics
 
 - [Deno](https://deno.land/)
   - [Linking to third party code](https://deno.land/manual/linking_to_external_code)
+
+## Parallel computation
+
+- [Keynote: Announcing Broadway - ElixirConf EU 2019](https://www.youtube.com/watch?v=IzFmNQGzApQ)
+  - Basic back pressure can be implemented as queue limits.
+  - [dashbitco/broadway](https://github.com/dashbitco/broadway)
+  - [Akka Stream](https://doc.akka.io/docs/akka/current/stream/index.html)
