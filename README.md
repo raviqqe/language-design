@@ -24,6 +24,7 @@ Language design resources grouped into topics
 - [Swift](https://swift.org/)
 - [Scala](https://www.scala-lang.org/)
 - [Effekt](https://effekt-lang.org/)
+- [Elixir](https://elixir-lang.org/)
 
 ## Language design
 
@@ -88,3 +89,8 @@ Language design resources grouped into topics
 
 - [Deno](https://deno.land/)
   - [Linking to third party code](https://deno.land/manual/linking_to_external_code)
+
+## Parallel computation
+
+- [José Valim - Keynote: Announcing Broadway - ElixirConf EU 2019](https://www.youtube.com/watch?v=IzFmNQGzApQ)
+  - Back pressure can be implemented as queue limits.
