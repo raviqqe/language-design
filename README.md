@@ -25,6 +25,7 @@ Language design resources grouped into topics
 - [Scala](https://www.scala-lang.org/)
 - [Effekt](https://effekt-lang.org/)
 - [Elixir](https://elixir-lang.org/)
+- [Unison](https://www.unisonweb.org/)
 
 ## Language design
 
