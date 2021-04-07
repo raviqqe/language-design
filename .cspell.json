@@ -19,6 +19,7 @@
     "stateful",
     "subtyping",
     "tagless",
+    "virding",
     "wasi",
     "wasm",
     "wasmtime"
