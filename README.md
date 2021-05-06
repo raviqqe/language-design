@@ -32,6 +32,7 @@ Language design resources grouped into topics
 - [Less is more: language features](https://blog.ploeh.dk/2015/04/13/less-is-more-language-features/)
 - [プログラミング言語の未来はどうなるか](https://keens.github.io/blog/2021/01/04/future_of_proguramming_languages/)
 - [Robert Virding - On Language Design (Lambda Days 2016)](https://www.youtube.com/watch?v=f3rP3JRq7Mw)
+- [The Rise of "Worse is better"](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 
 ## Type system
 
