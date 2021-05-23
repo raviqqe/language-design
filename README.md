@@ -53,6 +53,7 @@ Language design resources grouped into topics
 - [Counting Immutable Beans: Reference Counting Optimized for Purely Functional Programming](https://arxiv.org/abs/1908.05647)
   - [Slides](https://leanprover.github.io/talks/IFL2019.pdf)
 - [Perceus: Garbage Free Reference Counting with Reuse](https://www.microsoft.com/en-us/research/publication/perceus-garbage-free-reference-counting-with-reuse/)
+- [Reading Arc in Rust (Japanese)](https://qiita.com/qnighy/items/35db580a139d21f38410)
 
 ### Immix GC
 
