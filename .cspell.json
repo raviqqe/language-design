@@ -16,6 +16,7 @@
     "mlsub",
     "perceus",
     "reactiveness",
+    "rustc",
     "stateful",
     "subtyping",
     "tagless",

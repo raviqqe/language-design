@@ -100,3 +100,7 @@ Language design resources grouped into topics
   - Basic back pressure can be implemented as queue limits.
   - [dashbitco/broadway](https://github.com/dashbitco/broadway)
   - [Akka Stream](https://doc.akka.io/docs/akka/current/stream/index.html)
+
+## Compiler design
+
+- [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
