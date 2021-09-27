@@ -26,6 +26,7 @@ Language design resources grouped into topics
 - [Effekt](https://effekt-lang.org/)
 - [Elixir](https://elixir-lang.org/)
 - [Unison](https://www.unisonweb.org/)
+- [Flix](https://flix.dev/)
 
 ## Language design
 
