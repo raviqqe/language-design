@@ -27,6 +27,7 @@ Language design resources grouped into topics
 - [Elixir](https://elixir-lang.org/)
 - [Unison](https://www.unisonweb.org/)
 - [Flix](https://flix.dev/)
+- [Yatima](https://github.com/yatima-inc/yatima)
 
 ## Language design
 
