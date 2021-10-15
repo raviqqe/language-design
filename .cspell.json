@@ -16,6 +16,7 @@
     "mimalloc",
     "mlsub",
     "perceus",
+    "pvec",
     "reactiveness",
     "rustc",
     "stateful",
