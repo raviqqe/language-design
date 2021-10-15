@@ -71,6 +71,8 @@ Language design resources grouped into topics
 - [Improving RRB-Tree Performance through Transience](https://hypirion.com/thesis.pdf)
   - [c-rrb](https://github.com/hypirion/c-rrb)
   - [The blog post](https://hypirion.com/musings/thesis)
+  - [pvec-rs](https://github.com/arazabishov/pvec-rs)
+  - [Other implementations and descriptions of RRB trees | Closure core library](https://cljdoc.org/d/org.clojure/core.rrb-vector/0.1.2/doc/other-implementations-and-descriptions-of-rrb-trees)
 - [Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections](https://michael.steindorfer.name/publications/oopsla15.pdf)
 - [LazyList | Scala](https://www.scala-lang.org/api/current/scala/collection/immutable/LazyList.html)
 
