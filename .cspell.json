@@ -9,6 +9,7 @@
     "effekt",
     "emscripten",
     "expresso",
+    "flix",
     "intercal",
     "koka",
     "libhandler",
@@ -23,6 +24,7 @@
     "virding",
     "wasi",
     "wasm",
-    "wasmtime"
+    "wasmtime",
+    "yatima"
   ]
 }
