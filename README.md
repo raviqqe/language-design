@@ -36,6 +36,7 @@ Language design resources grouped into topics
 - [Robert Virding - On Language Design (Lambda Days 2016)](https://www.youtube.com/watch?v=f3rP3JRq7Mw)
 - [The Rise of "Worse is better"](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 - [Design Criteria for Programming Languages](http://jcsites.juniata.edu/faculty/rhodes/lt/plcriteria.htm)
+- [Go at Google: Language Design in the Service of Software Engineering](https://go.dev/talks/2012/splash.article)
 
 ## Type system
 
