@@ -95,6 +95,7 @@ Language design resources grouped into topics
   - [Cranelift IR](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/docs/ir.md)
 - [wasi crate for Rust](https://github.com/bytecodealliance/wasi)
 - [mimalloc](https://github.com/microsoft/mimalloc)
+- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
 
 ## Module system
 
