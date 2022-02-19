@@ -108,6 +108,7 @@ Language design resources grouped into topics
   - Basic back pressure can be implemented as queue limits.
   - [dashbitco/broadway](https://github.com/dashbitco/broadway)
   - [Akka Stream](https://doc.akka.io/docs/akka/current/stream/index.html)
+- [Runtime Support for Multicore Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/09/multicore-ghc.pdf)
 
 ## Compiler design
 
