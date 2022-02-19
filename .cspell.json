@@ -15,6 +15,7 @@
     "libhandler",
     "mimalloc",
     "mlsub",
+    "multicore",
     "perceus",
     "pvec",
     "reactiveness",
