@@ -38,6 +38,7 @@ Language design resources grouped into topics
 - [The Rise of "Worse is better"](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 - [Design Criteria for Programming Languages](http://jcsites.juniata.edu/faculty/rhodes/lt/plcriteria.htm)
 - [Go at Google: Language Design in the Service of Software Engineering](https://go.dev/talks/2012/splash.article)
+- [Language Design](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 
 ## Type system
 
