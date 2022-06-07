@@ -46,6 +46,7 @@ Language design resources grouped into topics
 - [Algebraic subtyping](https://www.cs.tufts.edu/~nr/cs257/archive/stephen-dolan/thesis.pdf)
   - [Polymorphism, Subtyping, and Type Inference in MLsub](https://www.repository.cam.ac.uk/handle/1810/261583)
 - [Practical type inference for arbitrary-rank types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
+- [Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism](https://arxiv.org/abs/1306.6032)
 
 ## Effect system
 
@@ -115,3 +116,7 @@ Language design resources grouped into topics
 ## Compiler design
 
 - [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
+
+## Other projects
+
+- [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev)
