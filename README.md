@@ -115,3 +115,7 @@ Language design resources grouped into topics
 ## Compiler design
 
 - [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
+
+## Other projects
+
+- [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev)
