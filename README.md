@@ -29,7 +29,7 @@ Language design resources grouped into topics
 - [Flix](https://flix.dev/)
 - [Yatima](https://github.com/yatima-inc/yatima)
 - [Lua](https://www.lua.org)
-- [Ruby](https:/www.ruby-lang.org)
+- [Ruby](https://www.ruby-lang.org)
   - [Parallel and Thread-Safe Ruby at High-Speed with TruffleRuby](https://speakerdeck.com/eregon/parallel-and-thread-safe-ruby-at-high-speed-with-truffleruby)
 
 ## Language design
