@@ -31,6 +31,9 @@ Language design resources grouped into topics
 - [Lua](https://www.lua.org)
 - [Ruby](https://www.ruby-lang.org)
   - [Parallel and Thread-Safe Ruby at High-Speed with TruffleRuby](https://speakerdeck.com/eregon/parallel-and-thread-safe-ruby-at-high-speed-with-truffleruby)
+- [Scheme](https://www.scheme.org/)
+  - [R7RS](https://small.r7rs.org/attachment/r7rs.pdf)
+- [Racket](https://racket-lang.org/)
 
 ## Language design
 
